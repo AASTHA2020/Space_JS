@@ -6,9 +6,6 @@
 - Full Responsive
 - Animation
 
-## `URL`
-
-https://destinyyy.netlify.app/
 
 ## `Screen`
 
